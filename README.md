@@ -4,9 +4,8 @@ Welcome to the GitHub repository for our RTDS GUI & Control (Robotics Module 1),
 
 ## Team Members
 
-- Member 1: [Name] - [Student ID]
-- Member 2: [Name] - [Student ID]
-- ... (Add all team members with their IDs)
+- Member 1: Bagas Dwi Atmaja Achmad Fauzan - 4121600005
+- Member 2: Thufail Bariqlana Audra - 4121600028
 
 ## Repository Structure
 
